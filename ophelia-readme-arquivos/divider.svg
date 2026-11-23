@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="40" viewBox="0 0 1280 40">
+  <style>
+    .line{ stroke-dasharray:1300; stroke-dashoffset:1300; animation:draw 4s ease-out infinite; }
+    .petal{ animation:float 4s ease-in-out infinite; transform-origin:640px 20px; }
+    @keyframes draw{ 0%{stroke-dashoffset:1300} 60%,100%{stroke-dashoffset:0} }
+    @keyframes float{ 0%,100%{ transform:translateY(0) rotate(0deg); opacity:.9 } 50%{ transform:translateY(-4px) rotate(12deg); opacity:1 } }
+    @media (prefers-reduced-motion:reduce){ .line,.petal{ animation:none; stroke-dashoffset:0 } }
+  </style>
+  <defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#536C7B" stop-opacity="0"/><stop offset=".5" stop-color="#C7CDD3"/><stop offset="1" stop-color="#536C7B" stop-opacity="0"/></linearGradient></defs>
+  <path class="line" d="M0 20 C 320 6, 480 34, 640 20 S 960 6, 1280 20" fill="none" stroke="url(#g)" stroke-width="1.5"/>
+  <g class="petal"><path d="M632 24A8 8 0 0 1 646 12A8 8 0 0 1 632 24Z" fill="#A69BAD"/><circle cx="652" cy="9" r="1.8" fill="#C7CDD3"/></g>
+</svg>

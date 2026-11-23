@@ -4,7 +4,7 @@
 
 <br>
 
-<a href="https://callmekaue.github.io/ophelia/"><img src="https://img.shields.io/badge/ABRIR_DEMONSTRA%C3%87%C3%83O-F3F4F2?style=for-the-badge&labelColor=172A36&logo=github&logoColor=F3F4F2" alt="Abrir demonstração"></a>
+<a href="https://callmekaue.github.io/ophelia-controle-ti/"><img src="https://img.shields.io/badge/ABRIR_DEMONSTRA%C3%87%C3%83O-F3F4F2?style=for-the-badge&labelColor=172A36&logo=github&logoColor=F3F4F2" alt="Abrir demonstração"></a>
 &nbsp;
 <a href="#como-testar"><img src="https://img.shields.io/badge/USU%C3%81RIO_DE_TESTE-demo%40ophelia.app-A69BAD?style=for-the-badge&labelColor=101116" alt="Usuário de teste"></a>
 
@@ -47,7 +47,7 @@ Este repositório é a **versão de demonstração**. Ela roda **inteira no nave
 <tr>
 <td width="58%" valign="top">
 
-**1.** Abra a [demonstração](https://callmekaue.github.io/ophelia/).
+**1.** Abra a [demonstração](https://callmekaue.github.io/ophelia-controle-ti/).
 
 **2.** Entre com um dos usuários abaixo ou clique em **"Entrar com o usuário de teste"**.
 
@@ -218,7 +218,7 @@ A interface segue a regra 60-30-10: **preto profundo** de base, **azul petróleo
 ## Estrutura do repositório
 
 ```
-ophelia/
+ophelia-controle-ti/
 ├── index.html                  # o sistema inteiro: interface, regras e a simulação do Supabase
 ├── README.md
 ├── ophelia-readme-arquivos/    # imagens, GIF e símbolo deste README

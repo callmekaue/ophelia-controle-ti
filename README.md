@@ -194,6 +194,22 @@ sequenceDiagram
 
 <img src="ophelia-readme-arquivos/divider.svg" width="100%" alt="">
 
+## Por que OPHELIA
+
+<div align="center">
+<img src="ophelia-readme-arquivos/triptico.jpg" alt="Três pinturas de Ophelia: Millais (1851-52), um retrato do século XIX e Waterhouse (1894)" width="100%">
+</div>
+
+Ophelia, a personagem de *Hamlet*, virou uma das figuras mais pintadas do século XIX. Quase sempre aparece do mesmo jeito: cercada de flores, à beira da água, perto de perder tudo. Na peça, ela se perde porque ninguém segura o que ela carrega.
+
+Este sistema existe para o oposto. Cada equipamento tem nome, dono, histórico e assinatura, e **nada fica à deriva**. Por isso as flores da marca (rosa branca, tulipa e lírio da paz) vivem dentro de um anel aberto: protegidas, mas livres para crescer.
+
+> *Toda Ophelia merece um destino melhor. A minha ganhou banco de dados, histórico e aceite digital.*
+
+<sub>Pinturas em domínio público: John Everett Millais, *Ophelia* (1851–52) · retrato de Ophelia, século XIX · John William Waterhouse, *Ophelia* (1894).</sub>
+
+<img src="ophelia-readme-arquivos/divider.svg" width="100%" alt="">
+
 ## Identidade visual
 
 <div align="center">
